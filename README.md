@@ -19,32 +19,35 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 ---
 
+
+
 <h4> 🛠 Technologies<br></h4>
 
 Technologies and tools that I am learning at the moment
  <br><br>
 
-[![Python](https://img.shields.io/badge/-Python-Blue?style=flat-square&logo=Python&logoColor=Blue&link=https://www.python.org/)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://www.java.com/pt_BR/)](https://www.java.com/pt_BR/)
-[![Javascript](http://img.shields.io/badge/-Javascript-Orange?style=flat-square&logo=Javascript&logoColor=White&link=https://www.javascript.com/)](https://www.javascript.com/t)
-[![CSS](http://img.shields.io/badge/-CSS-Blue?style=flat-square&logo=CSS3&logoColor=White&https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![HTML](http://img.shields.io/badge/-HTML-Red?style=flat-square&logo=HTML5&logoColor=White&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![PHP7](http://img.shields.io/badge/-PHP-Blue?style=flat-square&logo=php&logoColor=White&link=https://www.php.net/)](https://www.php.net/)
 
-[![Git](https://img.shields.io/badge/-Git-Red?style=flat-square&logo=git&logoColor=White&link=https://git-scm.com/)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-Black?style=flat-square&logo=github&logoColor=White&link=https://github.com/)](https://github.com/)
-[![Docker](https://img.shields.io/badge/-Docker-Blue?style=flat-square&logo=docker&logoColor=White&link=https://www.docker.com/)](https://www.docker.com/)
-[![Bootstrap 4](https://img.shields.io/badge/-Bootstrap-Blue?style=flat-square&logo=bootstrap&logoColor=White&link=https://getbootstrap.com/)](https://getbootstrap.com/)
-[![MongoDB](https://img.shields.io/badge/-Mongodb-Green?style=flat-square&logo=mongodb&logoColor=White&link=https://www.mongodb.com/)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-Blue?style=flat-square&logo=MySQL&logoColor=White&link=https://www.mysql.com/)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR/)](https://www.java.com/pt_BR/)
+[![Javascript](http://img.shields.io/badge/-Javascript-C5C204?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/t)
+[![CSS](http://img.shields.io/badge/-CSS-0000FF?style=flat-square&logo=CSS3&logoColor=white&https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![HTML](http://img.shields.io/badge/-HTML-E88726?style=flat-square&logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![PHP7](http://img.shields.io/badge/-PHP-0000FF?style=flat-square&logo=php&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
 
-[![React](https://img.shields.io/badge/-React-White?style=flat-square&logo=react&logoColor=Blue&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/)
-[![Expo](https://img.shields.io/badge/-Expo-White?style=flat-square&logo=expo&logoColor=Blue&link=https://expo.io/)](https://expo.io/)
-[![NestJS](https://img.shields.io/badge/-Nestjs-Red?style=flat-square&logo=nestjs&logoColor=White&link=https://nestjs.com/)](https://nestjs.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-Blue?style=flat-square&logo=typescript&logoColor=White&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-[![Dart](https://img.shields.io/badge/-Dart-Blue?style=flat-square&logo=dart&logoColor=White&link=https://dart.dev/)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/-Flutter-Blue?style=flat-square&logo=flutter&logoColor=White&link=https://flutter.dev/)](https://flutter.dev/)
-[![Firebase](https://img.shields.io/badge/-Firebase-Yellow?style=flat-square&logo=firebase&logoColor=White&link=https://firebase.google.com/?hl=pt-br)](https://firebase.google.com/?hl=pt-br)
+[![Git](https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
+[![Docker](https://img.shields.io/badge/-Docker-0000FF?style=flat-square&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
+[![Bootstrap 4](https://img.shields.io/badge/-Bootstrap-0000FF?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
+[![MongoDB](https://img.shields.io/badge/-Mongodb-227025?style=flat-square&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-0000FF?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
+
+[![React](https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/)
+[![Expo](https://img.shields.io/badge/-Expo-070707?style=flat-square&logo=expo&logoColor=white&link=https://expo.io/)](https://expo.io/)
+[![NestJS](https://img.shields.io/badge/-Nestjs-FF0000?style=flat-square&logo=nestjs&logoColor=white&link=https://nestjs.com/)](https://nestjs.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-0000FF?style=flat-square&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![Dart](https://img.shields.io/badge/-Dart-0000FF?style=flat-square&logo=dart&logoColor=white&link=https://dart.dev/)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-0000FF?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
+[![Firebase](https://img.shields.io/badge/-Firebase-E88726?style=flat-square&logo=firebase&logoColor=white&link=https://firebase.google.com/?hl=pt-br)](https://firebase.google.com/?hl=pt-br)
 
 
 ---
