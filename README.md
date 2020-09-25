@@ -19,8 +19,6 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 ---
 
-
-
 <h4> 🛠 Technologies<br></h4>
 
 Technologies and tools that I am learning at the moment
