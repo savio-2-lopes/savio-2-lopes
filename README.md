@@ -7,7 +7,7 @@
 
 <img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
 
-<br>
+----
 
 <h3> Hi 👋🏽 I am Savio </h3>
 
@@ -20,7 +20,7 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 - 🎯 goal: be a full stack web developer focused in the frontend part
 - 💜 Geek, gamer, books and movie lover
 
-<br> 
+----
 
 <a id="tech"></a>
 <details open>
@@ -54,7 +54,7 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 <a id="skill"></a>
 
-<br>
+----
 
 <details open>
   <summary>📈 <b>Github Statistics</b>:</summary>
