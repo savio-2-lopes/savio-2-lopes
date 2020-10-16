@@ -5,8 +5,21 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
 
-
 <img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
+
+
+## :pushpin: Índice
+
+- [How are you?](#sobre)
+- [Technologies](#tech)
+- [Skills](#skill)
+- [Languages](#lang)
+- [Hobbies](#hobbie)
+- [Github Statistics](#stats)
+
+<br>
+
+<a id="sobre"></a>
 
 ## What's up Dev? How are you? 👋🏽
 
@@ -19,7 +32,9 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 ---
 
-<h4> 🛠 Technologies<br></h4>
+<a id="tech"></a>
+
+<h3> 🛠 Technologies<br></h3>
 
 Technologies and tools that I am learning at the moment
  <br><br>
@@ -50,7 +65,10 @@ Technologies and tools that I am learning at the moment
 
 ---
 
-<h4>💻 Skills</h4>
+
+<a id="skill"></a>
+
+<h3>💻 Skills</h3>
  
 * Android Application Development [Java, Kotlin, Dart, React-Native]
 * Web Development [PHP, NodeJS, ReactJS]
@@ -61,7 +79,10 @@ Technologies and tools that I am learning at the moment
 
 ---
 
-<h4>💬 Languages(Learning)</h4>
+
+<a id="lang"></a>
+
+<h3>💬 Languages(Learning)</h3>
  <ul>
   <li>English - Intermediate;</li>
   <li>Spanish - Intermediate;</li>
@@ -70,10 +91,26 @@ Technologies and tools that I am learning at the moment
 
 ---
 
-<h4>⚡ Hobbies</h4>
+<a id="hobbie"></a>
+
+<h3>⚡ Hobbies</h3>
 <ul>
  <li>📚 Fantasy books;</li>
  <li>🎧 Listening to good music;</li>
  <li>🎬 Watch Movies and TV Shows;</li>
 </ul>
 
+---
+
+<a id="stats"></a>
+
+<h3>📈 Github Statistics</h3>
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+<br/>
