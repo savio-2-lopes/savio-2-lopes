@@ -77,28 +77,6 @@ Technologies and tools that I am learning at the moment
 
 <br>
 
-<a id="lang"></a>
-
-<h2>💬 Languages(Learning)</h2>
- <ul>
-  <li>English - Intermediate;</li>
-  <li>Spanish - Intermediate;</li>
-  <li>Portuguese - Native.</li>
-</ul>
-
-<br>
-
-<a id="hobbie"></a>
-
-<h2>⚡ Hobbies</h2>
-<ul>
- <li>📚 Fantasy books;</li>
- <li>🎧 Listening to good music;</li>
- <li>🎬 Watch Movies and TV Shows;</li>
-</ul>
-
-<br>
-
 <a id="stats"></a>
 
 <h2>📈 Github Statistics</h2>
@@ -107,7 +85,7 @@ Technologies and tools that I am learning at the moment
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&theme=react&line_height=40&hide=css"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&theme=tokyonight">
     </a>
 </div
 <br/>
