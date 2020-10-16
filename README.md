@@ -34,6 +34,7 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 <img src=http://img.shields.io/badge/-Javascript-C5C204?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/"/>
 <img src=http://img.shields.io/badge/-CSS-0000FF?style=flat-square&logo=CSS3&logoColor=white&https://developer.mozilla.org/pt-BR/docs/Web/CSS"/>
 <img src=http://img.shields.io/badge/-HTML-E88726?style=flat-square&logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML"/>
+<br>
 <img src=http://img.shields.io/badge/-PHP-0000FF?style=flat-square&logo=php&logoColor=white&link=https://www.php.net/"/>
 <img src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com"/>
 <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com"/>
