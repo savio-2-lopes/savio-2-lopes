@@ -21,7 +21,7 @@
 
 <a id="sobre"></a>
 
-## What's up Dev? How are you? 👋🏽
+## 👋🏽 What's up Dev? How are you?
 
 
 My name is Savio Lopes. I am a student Analysis and Systems Development. 
@@ -30,11 +30,11 @@ Enthusiast of technology, games, and nerdy world. Passionate about helping to so
 
 Passionate about the JavaScript stacks, web developer and Machine Learning.
 
----
+<br>
 
 <a id="tech"></a>
 
-<h3> 🛠 Technologies<br></h3>
+<h2> 🛠 Technologies<br></h2>
 
 Technologies and tools that I am learning at the moment
  <br><br>
@@ -62,13 +62,11 @@ Technologies and tools that I am learning at the moment
 [![Flutter](https://img.shields.io/badge/-Flutter-0000FF?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/-Firebase-E88726?style=flat-square&logo=firebase&logoColor=white&link=https://firebase.google.com/?hl=pt-br)](https://firebase.google.com/?hl=pt-br)
 
-
----
-
+<br>
 
 <a id="skill"></a>
 
-<h3>💻 Skills</h3>
+<h2>💻 Skills</h2>
  
 * Android Application Development [Java, Kotlin, Dart, React-Native]
 * Web Development [PHP, NodeJS, ReactJS]
@@ -82,7 +80,7 @@ Technologies and tools that I am learning at the moment
 
 <a id="lang"></a>
 
-<h3>💬 Languages(Learning)</h3>
+<h2>💬 Languages(Learning)</h2>
  <ul>
   <li>English - Intermediate;</li>
   <li>Spanish - Intermediate;</li>
@@ -93,7 +91,7 @@ Technologies and tools that I am learning at the moment
 
 <a id="hobbie"></a>
 
-<h3>⚡ Hobbies</h3>
+<h2>⚡ Hobbies</h2>
 <ul>
  <li>📚 Fantasy books;</li>
  <li>🎧 Listening to good music;</li>
@@ -104,7 +102,7 @@ Technologies and tools that I am learning at the moment
 
 <a id="stats"></a>
 
-<h3>📈 Github Statistics</h3>
+<h2>📈 Github Statistics</h2>
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
