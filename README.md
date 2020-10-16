@@ -8,7 +8,7 @@
 
 <img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
 
-## What's up Dev? How are you? 👋
+## What's up Dev? How are you? 👋🏽
 
 
 My name is Savio Lopes. I am a student Analysis and Systems Development. 
