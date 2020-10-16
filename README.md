@@ -7,7 +7,6 @@
 
 <img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
 
-<br>
 
 <h3> Hi 👋🏽 I am Savio </h3>
 
