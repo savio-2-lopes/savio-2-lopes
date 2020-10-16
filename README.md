@@ -7,8 +7,9 @@
 
 <img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
 
+<br> 
 
-## :pushpin: Índice
+## :pushpin: Table of Contents
 
 - [How are you?](#sobre)
 - [Technologies](#tech)
