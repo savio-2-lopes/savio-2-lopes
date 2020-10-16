@@ -9,15 +9,16 @@
 
 <br> 
 
+<!--
 ## :pushpin: Table of Contents
-
+/*
 - [About](#sobre)
 - [Technologies](#tech)
 - [Skills](#skill)
 - [Languages](#lang)
 - [Hobbies](#hobbie)
 - [Github Statistics](#stats)
-
+*/-->
 <br>
 
 <a id="sobre"></a>
@@ -26,10 +27,12 @@
 
 
 My name is Savio Lopes. I am a student Analysis and Systems Development. 
-
 Enthusiast of technology, games, and nerdy world. Passionate about helping to solve problems. 
-
 Passionate about the JavaScript stacks, web developer and Machine Learning.
+
+- 💜 geek, gamer, movie lover
+- 🎓 Student Analysis and Systems Development
+- 🎯 goal: be a full stack web developer focused in the frontend part
 
 <br>
 
