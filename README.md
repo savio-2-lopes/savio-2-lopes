@@ -61,7 +61,7 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
   
   <br>
   
-  <div align="center"> 
+  <div align="left"> 
      <a href="">
       <img src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </a>
