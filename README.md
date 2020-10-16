@@ -7,7 +7,7 @@
 
 <img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
 
----
+<br>
 
 <a id="sobre"></a>
 
@@ -19,6 +19,8 @@ My name is Savio Lopes. I am a student Analysis and Systems Development.
 Enthusiast of technology, games, and nerdy world. Passionate about helping to solve problems. 
 Passionate about the JavaScript stacks, web developer and Machine Learning.
 
+<br>
+
 - 💜 geek, gamer, movie lover
 - 🎓 Student Analysis and Systems Development
 - 🎯 goal: be a full stack web developer focused in the frontend part
@@ -26,7 +28,7 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 </details>
 
----
+<br>
 
 <a id="tech"></a>
 <details open>
