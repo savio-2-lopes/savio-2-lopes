@@ -11,7 +11,7 @@
 
 ## :pushpin: Table of Contents
 
-- [How are you?](#sobre)
+- [About](#sobre)
 - [Technologies](#tech)
 - [Skills](#skill)
 - [Languages](#lang)
