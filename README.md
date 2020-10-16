@@ -82,7 +82,7 @@ Technologies and tools that I am learning at the moment
 <h2>📈 Github Statistics</h2>
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
     </a>
     <a href="">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&theme=tokyonight">
