@@ -7,6 +7,8 @@
 
 <img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
 
+---
+
 <br>
 
 <a id="sobre"></a>
@@ -14,9 +16,15 @@
 
 <details open>
 <summary> Hi 👋🏽 I am Savio? How are you?</summary>
-  <br> 
-My name is Savio Lopes. I am a student Analysis and Systems Development. 
+
+<br> 
+
+My name is Savio Lopes. 
+<br>
+I am a student Analysis and Systems Development. 
+<br>
 Enthusiast of technology, games, and nerdy world. Passionate about helping to solve problems. 
+<br>
 Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 <br>
@@ -27,6 +35,8 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 
 </details>
+
+---
 
 <br>
 
@@ -63,6 +73,8 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 </details>
 
 <a id="skill"></a>
+
+---
 
 <details open>
   <summary>📈 <b>Github Statistics</b>:</summary>
