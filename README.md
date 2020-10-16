@@ -40,7 +40,6 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 Technologies and tools that I am learning at the moment
  <br><br>
 
-
 [![Python](https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR/)](https://www.java.com/pt_BR/)
 [![Javascript](http://img.shields.io/badge/-Javascript-C5C204?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/t)
@@ -76,8 +75,7 @@ Technologies and tools that I am learning at the moment
 * Version Control [GIT]
 * Object Oriented Programming
 
----
-
+<br>
 
 <a id="lang"></a>
 
@@ -88,7 +86,7 @@ Technologies and tools that I am learning at the moment
   <li>Portuguese - Native.</li>
 </ul>
 
----
+<br>
 
 <a id="hobbie"></a>
 
@@ -99,7 +97,7 @@ Technologies and tools that I am learning at the moment
  <li>🎬 Watch Movies and TV Shows;</li>
 </ul>
 
----
+<br>
 
 <a id="stats"></a>
 
