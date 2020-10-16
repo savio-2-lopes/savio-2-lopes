@@ -9,22 +9,9 @@
 
 ---
 
-<!--
-## :pushpin: Table of Contents
-/*
-- [About](#sobre)
-- [Technologies](#tech)
-- [Skills](#skill)
-- [Languages](#lang)
-- [Hobbies](#hobbie)
-- [Github Statistics](#stats)
-*/-->
-<br>
-
 <a id="sobre"></a>
 
 ## 👋🏽 What's up Dev? How are you?
-
 
 My name is Savio Lopes. I am a student Analysis and Systems Development. 
 Enthusiast of technology, games, and nerdy world. Passionate about helping to solve problems. 
@@ -36,10 +23,11 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 ---
 
-
 <a id="tech"></a>
 <details open>
   <summary>🚀 <b>Skills</b>:</summary>
+  
+  <br>
 
 <p align="center">
 <img src=https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/>
@@ -71,6 +59,9 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 <details open>
   <summary>📈 <b>Github Statistics</b>:</summary>
+  
+  <br>
+  
   <div align="center"> 
      <a href="">
       <img src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
