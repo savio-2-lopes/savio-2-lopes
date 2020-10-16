@@ -36,18 +36,10 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 ---
 
-<details open>
-  <summary>🚀 <b>Skills</b>:</summary>
-
-
 
 <a id="tech"></a>
-
-<h2> 🛠 Technologies<br></h2>
-
-Technologies and tools that I am learning at the moment
- <br><br>
-
+<details open>
+  <summary>🚀 <b>Skills</b>:</summary>
 
 <p align="center">
 <img src=https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/>
