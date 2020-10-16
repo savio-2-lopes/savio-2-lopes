@@ -39,10 +39,10 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com"/>
 <img src="https://img.shields.io/badge/-Docker-0000FF?style=flat-square&logo=docker&logoColor=white&link=https://www.docker.com/"/>
 <img src="https://img.shields.io/badge/-Bootstrap-0000FF?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/"/>
-<img src="https://img.shields.io/badge/-Mongodb-227025?style=flat-square&logo=mongodb&logoColor=white&link=https://www.mongodb.com/"/>
-  
-<br> 
 
+<br> 
+  
+<img src="https://img.shields.io/badge/-Mongodb-227025?style=flat-square&logo=mongodb&logoColor=white&link=https://www.mongodb.com/"/>
 <img src="https://img.shields.io/badge/-MySQL-0000FF?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
 <img src="https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/"/>
 <img src=https://img.shields.io/badge/-Expo-070707?style=flat-square&logo=expo&logoColor=white&link=https://expo.io/"/>
