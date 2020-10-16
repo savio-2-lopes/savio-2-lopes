@@ -7,20 +7,11 @@
 
 <img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
 
----
-
-<br>
-
-<a id="sobre"></a>
-
-
 <h3> Hi 👋🏽 I am Savio </h3>
 
-<br>
 I am a student Analysis and Systems Development. 
-<br>
-Enthusiast of technology, games, and nerdy world. Passionate about helping to solve problems. 
-<br>
+Enthusiast of technology, games, and nerdy world. 
+Passionate about helping to solve problems. 
 Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 <br>
@@ -30,7 +21,6 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 - 🎯 goal: be a full stack web developer focused in the frontend part
 
 <br>
-</details>
 
 ---
 
