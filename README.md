@@ -14,12 +14,8 @@
 <a id="sobre"></a>
 
 
-<details open>
-<summary> Hi 👋🏽 I am Savio? How are you?</summary>
+<h3> Hi 👋🏽 I am Savio </h3>
 
-<br> 
-
-My name is Savio Lopes. 
 <br>
 I am a student Analysis and Systems Development. 
 <br>
@@ -33,7 +29,7 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 - 🎓 Student Analysis and Systems Development
 - 🎯 goal: be a full stack web developer focused in the frontend part
 
-
+<br>
 </details>
 
 ---
