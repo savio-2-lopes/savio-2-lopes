@@ -47,9 +47,6 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 <img src="https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/"/>
 <img src=https://img.shields.io/badge/-Expo-070707?style=flat-square&logo=expo&logoColor=white&link=https://expo.io/"/>
 <img src=https://img.shields.io/badge/-Nestjs-FF0000?style=flat-square&logo=nestjs&logoColor=white&link=https://nestjs.com/"/>
-
-<br>
-
 <img src=https://img.shields.io/badge/-TypeScript-0000FF?style=flat-square&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/"/>
 <img src=https://img.shields.io/badge/-Dart-0000FF?style=flat-square&logo=dart&logoColor=white&link=https://dart.dev/"/>
 <img src=https://img.shields.io/badge/-Flutter-0000FF?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/"/>
