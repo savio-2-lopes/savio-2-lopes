@@ -29,9 +29,9 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
   <br>
 
 <p align="left">
-<img src=https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/>
-<img src=https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR/"/>
-<img src=http://img.shields.io/badge/-Javascript-C5C204?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/"/>
+<img src=https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src=https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR/"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src=http://img.shields.io/badge/-Javascript-C5C204?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src=http://img.shields.io/badge/-CSS-0000FF?style=flat-square&logo=CSS3&logoColor=white&https://developer.mozilla.org/pt-BR/docs/Web/CSS"/>
 <img src=http://img.shields.io/badge/-HTML-E88726?style=flat-square&logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML"/>
 <br>
