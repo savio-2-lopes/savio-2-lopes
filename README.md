@@ -81,7 +81,7 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 </details>
 
 <details open>
-  <summary><strong> Design/Mobile</strong> 
+  <summary><strong> Design</strong> 
  </summary>
 
 <br>
