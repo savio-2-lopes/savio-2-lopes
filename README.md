@@ -109,7 +109,6 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 <br>
 
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/savio-2-lopes/"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Firebase-E88726?style=flat-square&logo=firebase&logoColor=white&link=https://firebase.google.com/?hl=pt-br"/>
