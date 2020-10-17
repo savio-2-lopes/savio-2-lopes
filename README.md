@@ -28,8 +28,8 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
   
   <br>
 
-<p align="left">
-<img src=https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/>
+<!-- <p align="left"> -->
+<!-- <img src=https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/>
 <img src=https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR/"/> 
 <img src=http://img.shields.io/badge/-Javascript-C5C204?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/"/> 
 <img src=http://img.shields.io/badge/-CSS-0000FF?style=flat-square&logo=CSS3&logoColor=white&https://developer.mozilla.org/pt-BR/docs/Web/CSS"/> 
@@ -48,6 +48,104 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 <img src=https://img.shields.io/badge/-Dart-0000FF?style=flat-square&logo=dart&logoColor=white&link=https://dart.dev/"/>
 <img src=https://img.shields.io/badge/-Flutter-0000FF?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/"/>
 <img src=https://img.shields.io/badge/-Firebase-E88726?style=flat-square&logo=firebase&logoColor=white&link=https://firebase.google.com/?hl=pt-br"/>
+
+ -->
+
+
+<details open>
+  <summary><strong> Languages</strong> 
+ </summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/savio-2-lopes/"/>
+</details>
+
+<details open>
+  <summary><strong> Frontend/Mobile</strong> 
+ </summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Dart-0075BA?style=flat-square&logo=dart&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/"/>
+<img src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white&link=https://getbootstrap.com/"/>
+
+</details>
+
+<details open>
+  <summary><strong> Design/Mobile</strong> 
+ </summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma&link=https://github.com/savio-2-lopes/"/>
+</details>
+
+<details open>
+  <summary><strong> Others Technologies</strong> 
+ </summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Nestjs-FF0000?style=flat-square&logo=nestjs&logoColor=white&link=https://nestjs.com/"/>
+</details>
+
+<details open>
+  <summary><strong> Database</strong> 
+ </summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Firebase-E88726?style=flat-square&logo=firebase&logoColor=white&link=https://firebase.google.com/?hl=pt-br"/>
+</details>
+
+<details open>
+  <summary><strong> CMS</strong> 
+ </summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/-Joomla-86BE3C?style=flat-square&logo=Joomla&logoColor=white&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/savio-2-lopes/"/>
+</details>
+
+<details open>
+  <summary><strong> Operational System</strong> 
+ </summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/savio-2-lopes/"/>
+</details>
+
+<details open>
+  <summary><strong> Versioning and Communication</strong> 
+ </summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com"/> 
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Discord-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/savio-2-lopes/"/>
+</details>
 
 </p>
 </details>
