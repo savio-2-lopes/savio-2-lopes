@@ -11,11 +11,6 @@
 
 <h3> Hi 👋🏽 I am Savio </h3>
 
-I am a student Analysis and Systems Development. 
-Enthusiast of technology, games, and nerdy world. 
-Passionate about helping to solve problems. 
-Passionate about the JavaScript stacks, web developer and Machine Learning.
-
 - 🎓 Student Analysis and Systems Development
 - 🎯 goal: be a full stack web developer focused in the frontend part
 - 💜 Geek, gamer, books and movie lover
