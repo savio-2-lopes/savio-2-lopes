@@ -9,7 +9,7 @@
 
 ----
 
-<h3> Hi 👋🏽 I am Savio </h3>
+<h2> Hi 👋🏽 I am Savio </h2>
 
 - 🎓 Student Analysis and Systems Development
 - 🎯 goal: be a full stack web developer focused in the frontend part
