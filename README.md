@@ -56,9 +56,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/savio-2-lopes/"/>
+<img src="http://img.shields.io/badge/-Javascript-E88726?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/"/> 
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/savio-2-lopes/"/>
-<img src="https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Python-738ADB?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/>
 <img src=http://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white&link=https://www.php.net/"/> 
 </details>
 
@@ -71,8 +71,8 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Dart-0075BA?style=flat-square&logo=dart&logoColor=white&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/savio-2-lopes/"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/savio-2-lopes/"/>
-<img src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/"/>
+<img src="https://img.shields.io/badge/-ReactNative-003B57?style=flat-square&logo=react&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/"/>
 <img src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white&link=https://getbootstrap.com/"/>
 
@@ -84,7 +84,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-Figma-e04a34 ?style=flat-square&logo=figma&logoColor=f3b45c&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Figma-86BE3C?style=flat-square&logo=figma&logoColor=white&link=https://github.com/savio-2-lopes/"/>
 </details>
 
 <details open>
@@ -94,9 +94,9 @@
 <br>
 
 <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&link=https://github.com/savio-2-lopes/"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Nodejs-003B57?style=flat-square&logo=Node.js&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/savio-2-lopes/"/>
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Docker-0078D6?style=flat-square&logo=docker&logoColor=white&link=https://www.docker.com/"/>
 <img src="https://img.shields.io/badge/-Nestjs-FF0000?style=flat-square&logo=nestjs&logoColor=white&link=https://nestjs.com/"/>
 </details>
 
@@ -106,8 +106,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/savio-2-lopes/"/>
-<img src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=F29111&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Mongodb-227025?style=flat-square&logo=mongodb&logoColor=white&link=https://www.mongodb.com/"/> 
+<img src="https://img.shields.io/badge/-MySQL-0078D6?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Firebase-E88726?style=flat-square&logo=firebase&logoColor=white&link=https://firebase.google.com/?hl=pt-br"/>
 </details>
@@ -128,7 +128,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&logoColor=white&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/savio-2-lopes/"/>
 </details>
 
