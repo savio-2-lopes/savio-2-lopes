@@ -61,7 +61,6 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/savio-2-lopes/"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/savio-2-lopes/"/>
 </details>
 
 <details open>
