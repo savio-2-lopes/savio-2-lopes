@@ -24,7 +24,9 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 <a id="tech"></a>
 <details open>
-  <summary>🚀 <b>Skills</b>:</summary>
+  <summary>🚀 
+    <strong>Skills</strong>:
+  </summary>
   
   <br>
 
@@ -53,7 +55,8 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 
 <details open>
-  <summary><strong> Languages</strong> 
+  <summary>
+    <strong> Languages</strong> 
  </summary>
 
 <br>
@@ -86,7 +89,7 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 
 <br>
 
-<img src="https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-Figma-e04a34 ?style=flat-square&logo=figma&logoColor=f3b45c&link=https://github.com/savio-2-lopes/"/>
 </details>
 
 <details open>
@@ -109,7 +112,7 @@ Passionate about the JavaScript stacks, web developer and Machine Learning.
 <br>
 
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/savio-2-lopes/"/>
-<img src="https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/savio-2-lopes/"/>
+<img src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=F29111&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Firebase-E88726?style=flat-square&logo=firebase&logoColor=white&link=https://firebase.google.com/?hl=pt-br"/>
 </details>
