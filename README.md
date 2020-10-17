@@ -20,7 +20,7 @@
 <a id="tech"></a>
 <details open>
   <summary>🚀 
-    <strong>Skills</strong>:
+    <strong>My Tech Stacks</strong>:
   </summary>
   
   <br>
