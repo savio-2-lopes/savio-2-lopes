@@ -93,7 +93,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Nodejs-003B57?style=flat-square&logo=Node.js&link=https://nodejs.org/en/"/>
 <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://insomnia.rest/download/"/>
 <img src="https://img.shields.io/badge/-Docker-0078D6?style=flat-square&logo=docker&logoColor=white&link=https://www.docker.com"/>
@@ -158,10 +157,10 @@
         
   <div align="left"> 
      <a href="">
-      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
+      <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </a>
     <a href="">
-      <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&theme=tokyonight">
+      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&theme=tokyonight">
     </a>  
 </div
 <br/>
