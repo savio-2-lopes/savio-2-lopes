@@ -166,16 +166,3 @@
 <br/>
 </details>
 
-----
-<br>
-<details open>
-  <summary>:dart: <b>Visitor count</b>:</summary>
-   
-  <br>
- <p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/savio-2-lopes/count.svg" />
-  </p>
-</div
-<br/>
-</details>
