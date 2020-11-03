@@ -157,10 +157,10 @@
         
   <div align="left"> 
      <a href="">
-      <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
+      <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </a>
     <a href="">
-      <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&theme=tokyonight">
+      <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&theme=tokyonight">
     </a>  
 </div
 <br/>
