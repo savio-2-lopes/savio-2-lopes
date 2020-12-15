@@ -7,8 +7,6 @@
 
 <!-- <img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/> -->
 
-<img align="right" src="https://raw.githubusercontent.com/savio-2-lopes/Rental-Match/main/imageedit_2_7101276061.gif?token=AORAC4OQF7QJ2NIYACH6RVS74FPUK" width="350px;"/>
-
 ----
 
 <h2> Hi 👋🏽 I am Savio </h2>
