@@ -4,10 +4,11 @@
 Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/)
 [![Github
 Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
-[![Whatsapp
-Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
+[![Instagram
+Badge](https://img.shields.io/badge/-Instagram-4CA143?style=flat-square&labelColor=833ab4&logo=instagram&logoColor=white&link=https://instagram.com/savioaugulopes)](https://instagram.com/savioaugulopes)
 [![Gmail
 Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
+
 <!-- 
 <p align="center">
     <a href="https://github.com/savio-2-lopes" target="blank"><img align="center"
