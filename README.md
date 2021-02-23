@@ -123,7 +123,7 @@
 
 <a id="skill"></a>
 
-----
+<br>
 
 <details open>
   <summary>📈 <b>Github Statistics</b>:</summary>
