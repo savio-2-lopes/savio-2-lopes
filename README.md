@@ -5,7 +5,7 @@ Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Link
 [![Github
 Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
 [![Instagram
-Badge](https://img.shields.io/badge/-Instagram-4CA143?style=flat-square&labelColor=4CA143&logo=instagram&logoColor=white&link=https://instagram.com/savioaugulopes)](https://instagram.com/savioaugulopes)
+Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&labelColor=8a3ab9&logo=instagram&logoColor=white&link=https://instagram.com/savioaugulopes)](https://instagram.com/savioaugulopes)
 [![Gmail
 Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
 
