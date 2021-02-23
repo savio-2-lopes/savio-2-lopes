@@ -127,7 +127,7 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 <a id="skill"></a>
 
-<br>
+<br><br>
 
 <details open>
   <summary>📈 <b>Github Statistics</b>:</summary>
