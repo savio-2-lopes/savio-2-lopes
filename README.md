@@ -5,7 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
 
-<br><br>
+<br>
 
 <h2> Hi 👋🏽 I am Savio </h2>
 
@@ -13,7 +13,7 @@
 - 🎯 goal: be a full stack web developer focused in the frontend part
 - 💜 Geek, gamer, books and movie lover
 
-<br><br>
+<br>
 
 <a id="tech"></a>
 <details open>
