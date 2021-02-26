@@ -12,9 +12,9 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-373737?style=flat&logo=Github&logoColor=white)](https://github.com/savio-2-lopes) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/savioaugulopes/) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-lopes/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-373737?style=flat&logo=gmail&logoColor=white)](mailto:savio.dev.lopes@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/savioaugulopes/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-lopes/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:savio.dev.lopes@gmail.com) 
 
 <br>
 
