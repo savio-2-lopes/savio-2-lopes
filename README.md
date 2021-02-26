@@ -84,14 +84,15 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 <br>
 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   
 </details>
+
 
 <details open>
   <summary><strong> Others Technologies</strong> 
  </summary>
-
+  
 <br>
 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
