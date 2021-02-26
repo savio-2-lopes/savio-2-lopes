@@ -103,6 +103,8 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 </a>
 <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/>
 </a>
+<a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsbyjs" width="40" height="40"/>
+</a>
 <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://insomnia.rest/download/"/>
 
 </details>
@@ -124,16 +126,6 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 </details>
 
 <details open>
-  <summary><strong> CMS</strong> 
- </summary>
-
-<br>
-
-<img src="https://img.shields.io/badge/-Joomla-86BE3C?style=flat-square&logo=Joomla&logoColor=white&link=https://www.joomla.org/"/>
-<img src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://br.wordpress.com/"/>
-</details>
-
-<details open>
   <summary><strong> Operational System</strong> 
  </summary>
 
@@ -152,10 +144,14 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 <br>
 
-<img src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com"/> 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/savio-2-lopes/"/>
+<a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/git-original.svg" alt="git" width="40" height="40"/> 
+</a>
+<a href="https://github.com/savio-2-lopes/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="express" width="40" height="40"/>
+</a>
+<a href="https://slack.com/intl/pt-br" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+</a>
 <img src="https://img.shields.io/badge/-Discord-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com"/>
-<img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://slack.com/intl/pt-br/"/>
+
 </details>
 
 </p>
