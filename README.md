@@ -101,7 +101,7 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 </a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
 </a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="30" height="30"/>
+<a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="30" height="30"/>
 </a>
 <a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsbyjs" width="30" height="30"/>
 </a>
