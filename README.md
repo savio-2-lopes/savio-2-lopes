@@ -35,25 +35,54 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 <br>
 
-<img src="http://img.shields.io/badge/-Javascript-E88726?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/"/> 
+<!-- <img src="http://img.shields.io/badge/-Javascript-E88726?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/"/> 
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Python-738ADB?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/>
-<img src=http://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white&link=https://www.php.net/"/> 
+<img src=http://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white&link=https://www.php.net/"/>  -->
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="css3" width="40" height="40"/>
+</a>
+
 </details>
 
 <details open>
-  <summary><strong> Frontend/Mobile</strong> 
+  <summary><strong> Frontend</strong> 
  </summary>
 
 <br>
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"/>
+<!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"/>
 <img src="https://img.shields.io/badge/-Dart-0075BA?style=flat-square&logo=dart&logoColor=white&link=https://dart.dev/"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS/"/>
 <img src="https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/"/>
 <img src="https://img.shields.io/badge/-ReactNative-003B57?style=flat-square&logo=react&link=https://reactnative.dev/"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/"/>
-<img src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white&link=https://laravel.com"/>
+<img src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white&link=https://laravel.com"/> -->
+
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a> 
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+</a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://www.nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+</a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+</a>
 
 </details>
 
@@ -63,7 +92,8 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 <br>
 
-<img src="https://img.shields.io/badge/-Figma-86BE3C?style=flat-square&logo=figma&logoColor=white&link=https://www.figma.com/"/>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  
 </details>
 
 <details open>
@@ -72,10 +102,17 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 <br>
 
-<img src="https://img.shields.io/badge/-Nodejs-003B57?style=flat-square&logo=Node.js&link=https://nodejs.org/en/"/>
-<img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://insomnia.rest/download/"/>
-<img src="https://img.shields.io/badge/-Docker-0078D6?style=flat-square&logo=docker&logoColor=white&link=https://www.docker.com"/>
-<img src="https://img.shields.io/badge/-Nestjs-FF0000?style=flat-square&logo=nestjs&logoColor=white&link=https://nestjs.com/"/>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://insomnia.rest/download" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="insomnia" width="40" height="40"/>
+</a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/>
+</a>
+
 </details>
 
 <details open>
@@ -84,10 +121,14 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 <br>
 
-<img src="https://img.shields.io/badge/-Mongodb-227025?style=flat-square&logo=mongodb&logoColor=white&link=https://www.mongodb.com/"/> 
-<img src="https://img.shields.io/badge/-MySQL-0078D6?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+</a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</a>
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://www.sqlite.org/index.html/"/>
-<img src="https://img.shields.io/badge/-Firebase-E88726?style=flat-square&logo=firebase&logoColor=white&link=https://firebase.google.com/?hl=pt-br"/>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+</a>
+
 </details>
 
 <details open>
