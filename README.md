@@ -173,6 +173,9 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
     <a href="">
       <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&theme=tokyonight">
     </a>  
+    <a href="">
+     <img width="450px" align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&layout=compact&theme=tokyonight" />
+    </a> 
 </div
 <br/>
 </details>
