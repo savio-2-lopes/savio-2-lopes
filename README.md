@@ -46,6 +46,8 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 </a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="css3" width="40" height="40"/>
 </a>
+<a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg " alt="css3" width="40" height="40"/>
+</a>
 
 </details>
 
@@ -71,12 +73,9 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a> 
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 <a href="https://www.nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-</a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
@@ -147,8 +146,11 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 <br>
 
-<img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&logoColor=white&link=https://ubuntu.com/"/>
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://www.microsoft.com/pt-br/software-download/windows10/"/>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg " alt="linux" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/pt-br/software-download/windows10/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg " alt="window" width="40" height="40"/>
+</a>
+
 </details>
 
 <details open>
