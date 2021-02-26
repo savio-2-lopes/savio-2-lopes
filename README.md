@@ -22,7 +22,7 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 - 🎓 Student Analysis and Systems Development
 - 🎯 goal: be a full stack web developer focused in the frontend part
-- 💜 Geek, gamer, books and movie lover
+- 💜 Geek, movie and books lover
 
 <br>
 
