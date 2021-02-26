@@ -1,5 +1,6 @@
 ## :man_technologist: Savio Lopes 🏳️‍🌈
 
+<!--
 [![Linkedin
 Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/)
 [![Github
@@ -8,6 +9,12 @@ Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&lo
 Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&labelColor=8a3ab9&logo=instagram&logoColor=white&link=https://instagram.com/savioaugulopes)](https://instagram.com/savioaugulopes)
 [![Gmail
 Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savio.dev.lopes@gmail.com)
+-->
+
+[![Github Badge](https://img.shields.io/badge/-Github-373737?style=flat&logo=Github&logoColor=white)](https://github.com/savio-2-lopes) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/savioaugulopes/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-lopes/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-373737?style=flat&logo=gmail&logoColor=white)](mailto:savio.dev.lopes@gmail.com) 
 
 <br>
 
