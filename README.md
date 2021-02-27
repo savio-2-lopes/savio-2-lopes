@@ -25,7 +25,7 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 - 💜 Geek, movie and books lover
 
 <br>
-
+ 
 <a id="tech"></a>
 <details open>
   <summary>🚀 
