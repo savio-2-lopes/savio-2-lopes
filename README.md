@@ -8,7 +8,7 @@ Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&lo
 [![Instagram
 Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&labelColor=8a3ab9&logo=instagram&logoColor=white&link=https://instagram.com/savioaugulopes)](https://instagram.com/savioaugulopes)
 [![Gmail
-Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savio.dev.lopes@gmail.com)
+Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savio.dev.lopes@gmail.com) 
 -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-373737?style=flat&logo=Github&logoColor=white)](https://github.com/savio-2-lopes) 
