@@ -42,6 +42,8 @@ Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&l
 
 <br>
 
+<style>a { text-decoration:none;}</style>
+
 <!-- <img src="http://img.shields.io/badge/-Javascript-E88726?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/"/> 
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/savio-2-lopes/"/>
 <img src="https://img.shields.io/badge/-Python-738ADB?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/>
