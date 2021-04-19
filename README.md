@@ -192,8 +192,8 @@
     <a style="text-decoration: none;" href="#">
      <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&layout=compact&theme=tokyonight" />
     </a>
-    <a style="text-decoration: none;" href="#">
-     <img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=savio-2-lopes&theme=dark&title_color=FFF" />
+    <a style="text-decoration: none;" href="https://wakatime.com">
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=savio-2-lopes&theme=dark&title_color=FFF" />
     </a>
   </div>
 </details>
