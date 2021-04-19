@@ -37,13 +37,13 @@
 
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" />
-  </a> 
+  </a> &nbsp;
   <a style="text-decoration: none;" href="https://www.typescriptlang.org/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32" />
-  </a> 
+  </a> &nbsp;
   <a style="text-decoration: none;" href="https://golang.org/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="32" height="32" />
-  </a> 
+  </a> &nbsp;
   <a style="text-decoration: none;" href="https://www.php.net/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="css3" width="32" height="32" />
   </a>
@@ -109,10 +109,10 @@
  </a> 
  <a style="text-decoration: none;" href="https://www.docker.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="32" height="32"/>
- </a> 
+ </a> &nbsp;
  <a style="text-decoration: none;" href="https://nestjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="32" height="32" />
- </a> 
+ </a> &nbsp;
  <a style="text-decoration: none;" href="https://www.gatsbyjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsbyjs" width="32" height="32" />
  </a>
