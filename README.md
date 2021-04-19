@@ -206,7 +206,7 @@
 
   <div style="margin: 3px; min-width: 300px">
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=savio-2-lopes&theme=dark&title_color=FFF)](https://wakatime.com)
+<!-- [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=savio-2-lopes&theme=dark&title_color=FFF)](https://wakatime.com) -->
 
   </div>
 
