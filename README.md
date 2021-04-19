@@ -182,7 +182,7 @@
   
   <br>
         
-  <!-- <div> 
+  <div> 
      <a style="text-decoration: none;" href="#">
       <img width="450px" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </a>
@@ -193,33 +193,8 @@
      <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&layout=compact&theme=tokyonight" />
     </a>
     <a style="text-decoration: none;" href="https://wakatime.com">
-     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=savio-2-lopes&theme=tokyonight&title_color=FFF" />
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=savio2lopes&theme=tokyonight&title_color=FFF" />
     </a>
-  </div> -->
-
-<div style="display: flex; flex-wrap: wrap">
-  <div style="margin: 3px">
-
-[![Savio's github stats](https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
-
-  <div style="margin: 3px; min-width: 300px">
-
-[![Savio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=savio-2-lopes)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
-
-  <div style="margin: 3px">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
-
-  <div style="margin: 3px">
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-streak-stats)
-
   </div>
 </div>
 
