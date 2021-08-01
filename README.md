@@ -26,7 +26,9 @@
 <a id="tech"></a>
 
 <details open>
-  <summary><h3>🛠️ My Tech Stacks</h3></summary>
+  <summary>
+    <h3>🛠️ My Tech Stacks</h3>
+  </summary>
   
   <br>
 
