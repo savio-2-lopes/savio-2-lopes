@@ -9,12 +9,13 @@
 
 <h2> Hi 👋🏽 I am Savio </h2>
 
+<h3> 👨🏻‍💻 About Me </h3>
+
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Estudando Next.js (React), Nest.js (Node), Flask (python), Banco de dados relacional, SQL e Cultura DevOps
+- 🔭 Estudando Next.js (React), Flask (python) e Cultura DevOps
 - 🎯 Focando na área de Desenvolvimento web, principalmente frontend
-- ⛵ Aprendendo sobre IoT
-- ⚡ Gosto muito de ler nas horas vagas
-- 🧭 Brasil, São Paulo, SP
+- 📞 Melhor maneira de entrar em contato comigo é pelo Linkedin e email.
+- 🌱 Apaixonado por leitura, Linux e Software Livre
 
 <br>
  
