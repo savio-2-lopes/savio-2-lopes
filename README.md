@@ -1,5 +1,7 @@
 ## :man_technologist: Savio Lopes 🏳️‍🌈
 
+<br>
+
 [![Github Badge](https://img.shields.io/badge/-Github-373737?style=flat&logo=Github&logoColor=white)](https://github.com/savio-2-lopes)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/savioaugulopes/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-lopes/)
@@ -9,32 +11,29 @@
 
 <h2> Hi 👋🏽 I am Savio </h2>
 
-
 <details open>
-  <summary> 
-    <h3> 👨🏻‍💻 About Me </h3>
-  </summary>
+  <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Estudando Next.js (React), Flask (python) e Cultura DevOps
-- 🎯 Focando na área de Desenvolvimento web, principalmente frontend
-- 📞 Melhor maneira de entrar em contato comigo é pelo Linkedin e email.
-- 🌱 Apaixonado por leitura, Linux e Software Livre
+  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+  - 🔭 Estudando Next.js (React), Flask (python) e Cultura DevOps
+  - 🎯 Focando na área de Desenvolvimento web, principalmente frontend
+  - 📞 Melhor maneira de entrar em contato comigo é pelo Linkedin e email.
+  - 🌱 Apaixonado por leitura, Linux e Software Livre
 </details>
+
+<br>
 
 <a id="tech"></a>
 
 <details open>
-  <summary>🚀 
-    <strong>My Tech Stacks</strong>:
-  </summary>
+  <h3>🛠️ My Tech Stacks</h3>
   
-
  <details open>
   <summary>
     <strong> Languages</strong> 
   </summary>
 
+  <br>
 
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" />
@@ -53,11 +52,14 @@
   </a>
 </details>
 
+<br>
+
 <details open>
  <summary>
     <strong> Frontend</strong> 
  </summary>
 
+<br>
 
  <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
@@ -81,6 +83,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32" />
  </a>
 </details>
+
+<br>
 
 <details open>
   <summary>
@@ -111,6 +115,7 @@
   <strong> Database</strong> 
  </summary>
 
+<br>
 
  <a style="text-decoration:none" href="https://www.mongodb.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32" />
