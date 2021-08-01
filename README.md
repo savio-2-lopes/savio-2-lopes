@@ -11,8 +11,12 @@
 
 <h2> Hi 👋🏽 I am Savio </h2>
 
+<br>
+
 <details open>
   <summary><strong>👨🏻‍💻 About Me </strong></summary>
+
+<br>
 
   - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
   - 🔭 Estudando Next.js (React), Flask (python) e Cultura DevOps
