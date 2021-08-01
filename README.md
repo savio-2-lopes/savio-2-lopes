@@ -12,7 +12,7 @@
 <h2> Hi 👋🏽 I am Savio </h2>
 
 <details open>
-  <summary><h3>👨🏻‍💻 About Me </h3></summary>
+  <summary><strong>👨🏻‍💻 About Me </strong></summary>
 
   - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
   - 🔭 Estudando Next.js (React), Flask (python) e Cultura DevOps
@@ -173,7 +173,7 @@
 <br>
 
 <details open>
-  <summary><h3>📈 Github Statistics</h3></summary>
+  <summary><strong>📈 Github Statistics</strong></summary>
   
   <br>
         
