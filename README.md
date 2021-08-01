@@ -166,7 +166,7 @@
 
 <a id="skill"></a>
 
-<br><br>
+<br>
 
 <details open>
   <summary>📈 <b>Github Statistics</b>:</summary>
