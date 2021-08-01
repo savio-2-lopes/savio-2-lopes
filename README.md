@@ -27,7 +27,7 @@
 
 <details open>
   <summary>
-    <h3>🛠️ My Tech Stacks</h3>
+    <strong>🛠️ My Tech Stacks</strong>
   </summary>
   
   <br>
