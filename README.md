@@ -9,16 +9,19 @@
 
 <h2> Hi 👋🏽 I am Savio </h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+
+<details open>
+  <summary> 
+    <h3> 👨🏻‍💻 About Me </h3>
+  </summary>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🔭 Estudando Next.js (React), Flask (python) e Cultura DevOps
 - 🎯 Focando na área de Desenvolvimento web, principalmente frontend
 - 📞 Melhor maneira de entrar em contato comigo é pelo Linkedin e email.
 - 🌱 Apaixonado por leitura, Linux e Software Livre
+</details>
 
-<br>
- 
 <a id="tech"></a>
 
 <details open>
@@ -26,21 +29,15 @@
     <strong>My Tech Stacks</strong>:
   </summary>
   
-  <br>
 
  <details open>
   <summary>
     <strong> Languages</strong> 
   </summary>
 
-  <br>
 
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" />
-  </a>
-
-  <a style="text-decoration: none;" href="https://www.typescriptlang.org/"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32" />
   </a>
 
   <a style="text-decoration: none;" href="https://golang.org/"> 
@@ -50,6 +47,10 @@
   <a style="text-decoration: none;" href="https://www.php.net/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="css3" width="32" height="32" />
   </a>
+
+  <a style="text-decoration: none;" href="https://www.python.org/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="32" height="32" />
+  </a>
 </details>
 
 <details open>
@@ -57,7 +58,6 @@
     <strong> Frontend</strong> 
  </summary>
 
- <br>
 
  <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
@@ -71,9 +71,6 @@
  <a style="text-decoration: none;" href="https://reactjs.org/"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32" />
  </a>
- <a style="text-decoration: none;" href="https://www.typescriptlang.org/" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32" />
- </a>
  <a style="text-decoration: none;" href="https://redux.js.org"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="32" height="32" />
  </a>
@@ -82,18 +79,6 @@
  </a>
  <a style="text-decoration: none;" href="https://laravel.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32" />
- </a>
-</details>
-
-<details open>
-  <summary>
-   <strong> Design</strong> 
- </summary>
-
- <br>
-
- <a style="text-decoration: none;" href="https://www.figma.com/"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32" />
  </a>
 </details>
 
@@ -113,11 +98,9 @@
  <a style="text-decoration: none;" href="https://www.docker.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="32" height="32"/>
  </a>
-
- <a style="text-decoration: none;" href="https://nestjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="32" height="32" />
+ <a style="text-decoration: none;" href="https://flask.palletsprojects.com/en/2.0.x/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="32" height="32" />
  </a>
-
  <a style="text-decoration: none;" href="https://www.gatsbyjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsbyjs" width="32" height="32" />
  </a>
@@ -128,13 +111,15 @@
   <strong> Database</strong> 
  </summary>
 
- <br>
 
  <a style="text-decoration:none" href="https://www.mongodb.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32" />
  </a>
  <a style="text-decoration:none" href="https://www.mysql.com/"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="32" height="32" />
+ </a>
+ <a style="text-decoration:none" href="https://sqlite.org/index.html/"> 
+    <img src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/sqllite.svg" alt="mysql" width="32" height="32" />
  </a>
  <a style="text-decoration:none" href="https://firebase.google.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="32" height="32" />
