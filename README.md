@@ -26,10 +26,10 @@
 <a id="tech"></a>
 
 <details open>
-  <summary>🛠️
-    <h3> My Tech Stacks</h3>
-  </summary>
+  <summary><h3>🛠️ My Tech Stacks</h3></summary>
   
+  <br>
+
  <details open>
   <summary>
     <strong> Languages</strong> 
@@ -171,7 +171,7 @@
 <br>
 
 <details open>
-  <summary>📈 <h3>Github Statistics</h3></summary>
+  <summary><h3>📈 Github Statistics</h3></summary>
   
   <br>
         
