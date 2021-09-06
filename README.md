@@ -191,9 +191,6 @@
     <a style="text-decoration: none;" href="#">
      <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&layout=compact&theme=tokyonight" />
     </a>
-    <a style="text-decoration: none;" href="https://wakatime.com">
-     <img width="380px" src="https://github-readme-stats.vercel.app/api/wakatime?username=namelopes&theme=tokyonight" />
-    </a>
   </div>
  </div>
 </details>
