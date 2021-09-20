@@ -18,10 +18,10 @@
 <br>
 
   - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-  - 🔭 Estudando Next.js (React), Flask (python) e Cultura DevOps
-  - 🎯 Focando na área de Desenvolvimento web, principalmente frontend
-  - 📞 Melhor maneira de entrar em contato comigo é pelo Linkedin e email.
+  - 🔭 Estudando Next.js (React), Flask (python), Scrapy (Python) e Cultura DevOps
+  - 🎯 Focando na área de Desenvolvimento web, principalmente front-end
   - 🌱 Apaixonado por leitura, Linux e Software Livre
+  - 📞 Melhor maneira de entrar em contato comigo é pelo Linkedin e email.
 
 <br>
 
@@ -71,8 +71,10 @@
 <br><br>
 
 <strong> Frontend</strong> 
- <br>
- <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
+
+<br>
+
+<a style="text-decoration: none;" href="https://www.w3.org/html/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://www.w3schools.com/css/"> 
@@ -97,8 +99,10 @@
 <br><br>
 
 <strong> Others Technologies</strong> 
- <br>
- <a style="text-decoration:none" href="https://nodejs.org"> 
+
+<br>
+
+<a style="text-decoration:none" href="https://nodejs.org"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://expressjs.com"> 
@@ -117,8 +121,10 @@
 <br><br>
 
 <strong> Database</strong> 
- <br>
- <a style="text-decoration:none" href="https://www.mongodb.com/"> 
+
+<br>
+
+<a style="text-decoration:none" href="https://www.mongodb.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32" />
  </a>
  <a style="text-decoration:none" href="https://www.mysql.com/"> 
@@ -135,7 +141,9 @@
 <br><br>
 
 <strong> Operational System</strong> 
+
 <br>
+
 <a style="text-decoration: none;" href="https://ubuntu.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg" alt="linux" width="32" height="32" />
  </a>
@@ -143,10 +151,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/windows8/windows8-original.svg" alt="window" width="32" height="32" />
  </a>
 
+<br><br>
+
+<strong> Versioning</strong> 
+
 <br>
 
-<strong> Versioning and Communication</strong> 
-<br>
 <a style="text-decoration: none;" href="https://git-scm.com"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32" />
  </a>
