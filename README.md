@@ -1,4 +1,4 @@
-## :man_technologist: Savio Lopes 🏳️‍🌈
+# :man_technologist: Savio Lopes 🏳️‍🌈
 
 <br>
 
@@ -9,12 +9,11 @@
 
 <br>
 
-<h2> Hi 👋🏽 I am Savio </h2>
+<h1> Hi 👋🏽 I am Savio </h1>
 
 <br>
 
-<details open>
-  <summary><strong>👨🏻‍💻 About Me </strong></summary>
+<h2>👨🏻‍💻 About Me </h2>
 
 <br>
 
@@ -23,16 +22,14 @@
   - 🎯 Focando na área de Desenvolvimento web, principalmente frontend
   - 📞 Melhor maneira de entrar em contato comigo é pelo Linkedin e email.
   - 🌱 Apaixonado por leitura, Linux e Software Livre
-</details>
 
 <br>
 
-<details open>
-  <summary><strong>📈 Github Statistics</strong></summary>
+<h2>📈 Github Statistics</h2>
   
-  <br>
+<br>
         
-  <div> 
+<div> 
      <a style="text-decoration: none;" href="#">
       <img width="450px" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </a>
@@ -44,26 +41,14 @@
     </a>
   </div>
  </div>
-</details>
 
 <br>
 
-<a id="tech"></a>
-
-<details open>
-  <summary>
-    <strong>🛠️ My Tech Stacks</strong>
-  </summary>
+<h2>🛠️ My Tech Stacks</h2>
   
-  <br>
+<br>
 
- <details open>
-  <summary>
-    <strong> Languages</strong> 
-  </summary>
-
-  <br>
-
+<strong> Languages</strong> 
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" />
   </a>
@@ -79,17 +64,10 @@
   <a style="text-decoration: none;" href="https://www.python.org/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="32" height="32" />
   </a>
-</details>
 
 <br>
 
-<details open>
- <summary>
-    <strong> Frontend</strong> 
- </summary>
-
-<br>
-
+<strong> Frontend</strong> 
  <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
  </a>
@@ -111,17 +89,10 @@
  <a style="text-decoration: none;" href="https://laravel.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32" />
  </a>
-</details>
 
 <br>
 
-<details open>
-  <summary>
-   <strong> Others Technologies</strong> 
- </summary>
-  
- <br>
-
+<strong> Others Technologies</strong> 
  <a style="text-decoration:none" href="https://nodejs.org"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32" />
  </a>
@@ -137,15 +108,10 @@
  <a style="text-decoration: none;" href="https://www.gatsbyjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsbyjs" width="32" height="32" />
  </a>
-</details>
-
-<details open>
-  <summary>
-  <strong> Database</strong> 
- </summary>
 
 <br>
 
+<strong> Database</strong> 
  <a style="text-decoration:none" href="https://www.mongodb.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32" />
  </a>
@@ -160,13 +126,9 @@
  </a>
 </details>
 
-<details open>
-  <summary>
-    <strong> Operational System</strong> 
- </summary>
+<br>
 
- <br>
-
+<strong> Operational System</strong> 
  <a style="text-decoration: none;" href="https://ubuntu.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg" alt="linux" width="32" height="32" />
  </a>
@@ -175,23 +137,15 @@
  </a>
 </details>
 
-<details open>
-  <summary>
-   <strong> Versioning and Communication</strong> 
-  </summary>
-
 <br>
 
+<strong> Versioning and Communication</strong> 
  <a style="text-decoration: none;" href="https://git-scm.com"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://github.com/savio-2-lopes/"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="express" width="32" height="32" />
  </a>
- <a style="text-decoration: none;" href="https://slack.com/intl/pt-br">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="32" height="32" />
- </a>
-</details>
 
 <br>
 
