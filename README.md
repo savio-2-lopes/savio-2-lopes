@@ -9,10 +9,6 @@
 
 <br>
 
-<h2> Hi 👋🏽 I am Savio </h2>
-
-<br>
-
 <h2>👨🏻‍💻 About Me </h2>
 
 <br>
