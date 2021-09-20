@@ -62,9 +62,6 @@
  <a style="text-decoration: none;" href="https://www.w3schools.com/css/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32" />
  </a> &nbsp;
- <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
- </a> &nbsp;
  <a style="text-decoration: none;" href="https://reactjs.org/"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32" />
  </a> &nbsp;
@@ -80,9 +77,6 @@
  <a style="text-decoration:none" href="https://nodejs.org"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32" />
  </a> &nbsp;
- <a style="text-decoration: none;" href="https://expressjs.com"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="32" height="32" />
- </a>  &nbsp;
  <a style="text-decoration: none;" href="https://www.docker.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="32" height="32"/>
  </a> &nbsp;
