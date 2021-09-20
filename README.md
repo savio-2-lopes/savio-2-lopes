@@ -49,6 +49,9 @@
 <br>
 
 <strong> Languages</strong> 
+
+<br>
+
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" />
   </a>
@@ -65,9 +68,10 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="32" height="32" />
   </a>
 
-<br>
+<br><br>
 
 <strong> Frontend</strong> 
+ <br>
  <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
  </a>
@@ -90,9 +94,10 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32" />
  </a>
 
-<br>
+<br><br>
 
 <strong> Others Technologies</strong> 
+ <br>
  <a style="text-decoration:none" href="https://nodejs.org"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32" />
  </a>
@@ -109,9 +114,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsbyjs" width="32" height="32" />
  </a>
 
-<br>
+<br><br>
 
 <strong> Database</strong> 
+ <br>
  <a style="text-decoration:none" href="https://www.mongodb.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32" />
  </a>
@@ -126,28 +132,29 @@
  </a>
 </details>
 
-<br>
+<br><br>
 
 <strong> Operational System</strong> 
- <a style="text-decoration: none;" href="https://ubuntu.com/">
+<br>
+<a style="text-decoration: none;" href="https://ubuntu.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg" alt="linux" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://www.microsoft.com/pt-br/software-download/windows10/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/windows8/windows8-original.svg" alt="window" width="32" height="32" />
  </a>
-</details>
 
 <br>
 
 <strong> Versioning and Communication</strong> 
- <a style="text-decoration: none;" href="https://git-scm.com"> 
+<br>
+<a style="text-decoration: none;" href="https://git-scm.com"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://github.com/savio-2-lopes/"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="express" width="32" height="32" />
  </a>
 
-<br>
+<br><br>
 
 ##
  
