@@ -195,3 +195,8 @@
  </div>
 </details>
 
+<br>
+
+##
+ 
+ ![Snake animation](https://github.com/savio-2-lopes/savio-2-lopes/blob/output/github-contribution-grid-snake.svg)
