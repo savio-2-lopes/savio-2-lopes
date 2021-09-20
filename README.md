@@ -93,10 +93,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsbyjs" width="32" height="32" />
  </a>
 
-<br><br>
-
-<h2>🛠️ Databases</h2>
-  
 <br>
 
 <a style="text-decoration:none" href="https://www.mongodb.com/"> 
@@ -112,10 +108,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="32" height="32" />
  </a>
 
-<br><br>
-
-<h2>:zap: Systems</h2>
-  
 <br>
 
 <a style="text-decoration: none;" href="https://ubuntu.com/">
