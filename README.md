@@ -48,10 +48,6 @@
   
 <br>
 
-<h3>🚀 Stacks</h3> 
-
-
-
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" />
   </a>
@@ -63,11 +59,9 @@
   <a style="text-decoration: none;" href="https://www.php.net/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="css3" width="32" height="32" />
   </a>
-
   <a style="text-decoration: none;" href="https://www.python.org/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="32" height="32" />
   </a>
-
   <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
  </a>
@@ -107,9 +101,6 @@
 
 <br><br>
 
-<h3>:zap: Database</h3> 
-
-
 <a style="text-decoration:none" href="https://www.mongodb.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32" />
  </a>
@@ -124,9 +115,6 @@
  </a>
 
 <br><br>
-
-<h3>:memo: Operational System</h3> 
-
 
 <a style="text-decoration: none;" href="https://ubuntu.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg" alt="linux" width="32" height="32" />
