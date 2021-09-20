@@ -93,7 +93,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsbyjs" width="32" height="32" />
  </a>
 
-<br>
+<br><br>
 
 <h2>🛠️ Databases</h2>
   
@@ -112,9 +112,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="32" height="32" />
  </a>
 
-<br>
+<br><br>
 
-<h2:zap: Systems</h2>
+<h2>:zap: Systems</h2>
   
 <br>
 
