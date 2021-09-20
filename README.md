@@ -9,7 +9,7 @@
 
 <br>
 
-<h1> Hi 👋🏽 I am Savio </h1>
+<h2> Hi 👋🏽 I am Savio </h2>
 
 <br>
 
