@@ -48,7 +48,7 @@
   
 <br>
 
-<strong> Languages</strong> 
+<strong>🚀 Stacks</strong> 
 
 <br>
 
@@ -68,13 +68,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="32" height="32" />
   </a>
 
-<br><br>
-
-<strong> Frontend</strong> 
-
-<br>
-
-<a style="text-decoration: none;" href="https://www.w3.org/html/"> 
+  <a style="text-decoration: none;" href="https://www.w3.org/html/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://www.w3schools.com/css/"> 
@@ -95,12 +89,6 @@
  <a style="text-decoration: none;" href="https://laravel.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32" />
  </a>
-
-<br><br>
-
-<strong> Others Technologies</strong> 
-
-<br>
 
 <a style="text-decoration:none" href="https://nodejs.org"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32" />
