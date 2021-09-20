@@ -25,8 +25,6 @@
   - 🌱 Apaixonado por leitura, Linux e Software Livre
 </details>
 
-<a id="skill"></a>
-
 <br>
 
 <details open>
