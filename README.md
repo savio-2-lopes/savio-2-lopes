@@ -48,9 +48,9 @@
   
 <br>
 
-<strong>🚀 Stacks</strong> 
+<h3>🚀 Stacks</h3> 
 
-<br>
+
 
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32" />
@@ -88,9 +88,8 @@
  </a>
  <a style="text-decoration: none;" href="https://laravel.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32" />
- </a>
-
-<a style="text-decoration:none" href="https://nodejs.org"> 
+ </a> 
+ <a style="text-decoration:none" href="https://nodejs.org"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://expressjs.com"> 
@@ -108,9 +107,8 @@
 
 <br><br>
 
-<strong> Database</strong> 
+<h3>:zap: Database</h3> 
 
-<br>
 
 <a style="text-decoration:none" href="https://www.mongodb.com/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32" />
@@ -124,32 +122,17 @@
  <a style="text-decoration:none" href="https://firebase.google.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="32" height="32" />
  </a>
-</details>
 
 <br><br>
 
-<strong> Operational System</strong> 
+<h3>:memo: Operational System</h3> 
 
-<br>
 
 <a style="text-decoration: none;" href="https://ubuntu.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg" alt="linux" width="32" height="32" />
  </a>
  <a style="text-decoration: none;" href="https://www.microsoft.com/pt-br/software-download/windows10/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/windows8/windows8-original.svg" alt="window" width="32" height="32" />
- </a>
-
-<br><br>
-
-<strong> Versioning</strong> 
-
-<br>
-
-<a style="text-decoration: none;" href="https://git-scm.com"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32" />
- </a>
- <a style="text-decoration: none;" href="https://github.com/savio-2-lopes/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="express" width="32" height="32" />
  </a>
 
 <br><br>
