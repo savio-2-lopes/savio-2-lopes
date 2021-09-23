@@ -17,6 +17,7 @@ jobs:
           github_user_name: savio-2-lopes
           svg_out_path: dist/github-user-contribution.svg
 
+
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
