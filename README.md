@@ -1,4 +1,4 @@
-# Hi 👋, I'm Savio
+# :man_technologist: Savio Lopes 🏳️‍🌈
 
 <br>
 
@@ -9,12 +9,12 @@
 
 <br>
 
-<h2>👨🏻‍💻 About Me </h2>
+<h2>👋 About Me </h2>
 
 <br>
 
   - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-  - 
+  
   - 🔭 Estudando Desenvolvimento Web e Cultura DevOps
 
   - 🌱 Apaixonado por leitura, Desenvolvimento Web e Software Livre
@@ -33,7 +33,7 @@
   <a href="https://github.com/savio-2-lopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&theme=tokyonight" width="48%" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&theme=tokyonight" height="180em" />
 </div>
 
 <br>
