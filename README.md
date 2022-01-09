@@ -10,16 +10,6 @@
 
 <br>
 
-  - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-  
-  - 🔭 Estudando Desenvolvimento Web e Cultura DevOps
-
-  - 🌱 Apaixonado por leitura, Desenvolvimento Web e Software Livre
-
-  - 📫 Melhor maneira de entrar em contato comigo é pelo Linkedin ou E-mail.
-
-<br>
-
 <h2>📈 Github Statistics</h2>
   
 <br>
