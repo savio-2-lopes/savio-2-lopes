@@ -19,8 +19,6 @@
 
   - 🌱 Apaixonado por leitura, Desenvolvimento Web e Software Livre
 
-  - 📄 The project that got me my current job, without being interview : [Sumit-Job](https://sumit-job.vercel.app)
-
   - 📫 Melhor maneira de entrar em contato comigo é pelo Linkedin ou E-mail.
 
 <br>
