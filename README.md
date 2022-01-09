@@ -12,6 +12,7 @@
 <h2>👋 About Me </h2>
 
 <br>
+
   - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
   
   - 🔭 Estudando Desenvolvimento Web e Cultura DevOps
