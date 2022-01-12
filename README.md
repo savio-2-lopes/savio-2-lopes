@@ -23,7 +23,7 @@
 
 <br>
 
-<h2>:rocket: Languages and Tools </h2>
+<h2>:computer: Languages and Tools </h2>
   
 <br>
 
