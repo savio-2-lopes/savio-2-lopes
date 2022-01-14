@@ -8,18 +8,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savio.lopes@fatec.sp.gov.br)
 [![Me Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://next-dev-portfolio.netlify.app/)
 
-<br>
-
-<h2>📈 Github Statistics</h2>
-  
-<br>
-
- <div style="margin-left:auto; margin-right:auto">
-  <a href="https://github.com/savio-2-lopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&theme=tokyonight" height="180em" />
-</div>
 
 <br>
 
@@ -36,6 +24,19 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
   
+<br>
+
+<h2>📈 Github Statistics</h2>
+  
+<br>
+
+ <div style="margin-left:auto; margin-right:auto">
+  <a href="https://github.com/savio-2-lopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&theme=tokyonight" height="180em" />
+</div>
+
 <br><br>
 
 ##
