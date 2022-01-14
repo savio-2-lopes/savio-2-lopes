@@ -1,4 +1,4 @@
-## :man_technologist: Pessoal, tudo bem com vocês? 🏳️‍🌈
+## :man_technologist: Pessoal, tudo bem? 🏳️‍🌈
 
 <br>
 
