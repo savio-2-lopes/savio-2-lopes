@@ -41,9 +41,8 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
 </div>
 
+<br>
   
-<br><br>
-
 ##
  
  ![Snake animation](https://github.com/savio-2-lopes/savio-2-lopes/blob/output/github-user-contribution.svg)
