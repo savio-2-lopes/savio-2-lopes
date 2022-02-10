@@ -10,6 +10,25 @@
 
 <br>
 
+#### Experiência
+  <ul>
+  <li>Estagiário na Mais Top Estética em Inovação e Tecnologia :computer: (01/2021 - até o momento)</li>
+  <li>Estagiário na Cazalab como Desenvolvedor Front-end :computer: (11/2020 - 11/2021) </li>
+  </ul>
+
+#### Formação
+  <ul>
+  <li>Graduando em Análise e Desenvolvimento de Sistemas (Fatec Cruzeiro - até o momento)</li>
+  <li>Cursos em andamento:</li>
+  <ul>
+    <li>Cloud Security Associate 📈 (em andamento)</li>
+    <li>Certified AI-900 📈 (em andamento)</li>
+    <li>Certified in Neo4j 4.x 📈 (em andamento)</li>
+    <li>MongoDB Certified Developer Associate 📈 (em andamento)</li>
+    <li>CyberOps Associate 📈 (em andamento)</li>
+  </ul>
+<br>
+
 <h2>📈 Github Statistics</h2>
   
 <br>
