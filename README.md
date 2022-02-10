@@ -22,8 +22,8 @@
   
   <li>Cursos em andamento:</li>
   <ul>
-    <li><a target="_blank" href="https://docs.microsoft.com/pt-br/learn/certifications/exams/ai-900">Certified AI-900</a> 📈 (em andamento)</li>
     <li><a target="_blank" href="https://www.rocketseat.com.br/ignite">Trilha React.js by Ignite</a> 📈 (em andamento)</li>
+    <li><a target="_blank" href="https://docs.microsoft.com/pt-br/learn/certifications/exams/ai-900">Certified AI-900</a> 📈 (em andamento)</li>
     <li><a target="_blank" href="https://university.mongodb.com/certification/developer/about">MongoDB Certified Developer Associate</a> 📈 (em andamento)</li>
     <li><a target="_blank" href="https://mylearn.oracle.com/learning-path/discover-and-train-in-cybersecurity/35644/100307">CyberSecurity and Oracle Cloud</a> 📈 (em andamento)</li>    
     <li><a target="_blank" href="https://mylearn.oracle.com/learning-path/become-a-specialist-on-oracle-machine-learning-with-autonomous-database/35644/98084">Oracle Machine Learning with Autonomous Database Specialist</a> 📈 (em andamento)</li>
