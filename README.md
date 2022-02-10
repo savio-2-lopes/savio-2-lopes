@@ -19,6 +19,7 @@
 #### Formação
   <ul>
   <li>Graduando em Análise e Desenvolvimento de Sistemas (Fatec Cruzeiro - até o momento)</li>
+  
   <li>Cursos em andamento:</li>
   <ul>
     <li><a target="_blank" href="https://docs.microsoft.com/pt-br/learn/certifications/exams/ai-900">Certified AI-900</a> 📈 (em andamento)</li>
