@@ -22,7 +22,6 @@
   <li>Cursos em andamento:</li>
   <ul>
     <li>Certified AI-900 📈 (em andamento)</li>
-    <li>CyberOps Associate 📈 (em andamento)</li>
     <li>Certified in Neo4j 4.x 📈 (em andamento)</li>
     <li>Cloud Security Associate 📈 (em andamento)</li>
     <li>Trilha React.js by Ignite 📈 (em andamento)</li>
