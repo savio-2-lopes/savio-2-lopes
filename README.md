@@ -21,12 +21,12 @@
   <li>Graduando em Análise e Desenvolvimento de Sistemas (Fatec Cruzeiro - até o momento)</li>
   <li>Cursos em andamento:</li>
   <ul>
-    <li>Cloud Security Associate 📈 (em andamento)</li>
     <li>Certified AI-900 📈 (em andamento)</li>
-    <li>Certified in Neo4j 4.x 📈 (em andamento)</li>
-    <li>MongoDB Certified Developer Associate 📈 (em andamento)</li>
     <li>CyberOps Associate 📈 (em andamento)</li>
+    <li>Certified in Neo4j 4.x 📈 (em andamento)</li>
+    <li>Cloud Security Associate 📈 (em andamento)</li>
     <li>Trilha React.js by Ignite 📈 (em andamento)</li>
+    <li>MongoDB Certified Developer Associate 📈 (em andamento)</li>
   </ul>
 <br>
 
