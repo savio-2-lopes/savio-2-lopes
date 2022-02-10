@@ -26,6 +26,7 @@
     <li>Certified in Neo4j 4.x 📈 (em andamento)</li>
     <li>MongoDB Certified Developer Associate 📈 (em andamento)</li>
     <li>CyberOps Associate 📈 (em andamento)</li>
+    <li>Trilha React.js by Ignite 📈 (em andamento)</li>
   </ul>
 <br>
 
