@@ -21,11 +21,11 @@
   <li>Graduando em Análise e Desenvolvimento de Sistemas (Fatec Cruzeiro - até o momento)</li>
   <li>Cursos em andamento:</li>
   <ul>
-    <li>Certified AI-900 📈 (em andamento)</li>
-    <li>Certified in Neo4j 4.x 📈 (em andamento)</li>
-    <li>Trilha React.js by Ignite 📈 (em andamento)</li>
-    <li>MongoDB Certified Developer Associate 📈 (em andamento)</li>
-    <li>Oracle Cloud Security Associate 📈 (em andamento)</li>
+    <li><a target="_blank" href="https://docs.microsoft.com/pt-br/learn/certifications/exams/ai-900">Certified AI-900</a> 📈 (em andamento)</li>
+    <li><a target="_blank" href="https://neo4j.com/graphacademy/neo4j-certification-40/">Certified in Neo4j 4.x</a> 📈 (em andamento)</li>
+    <li><a target="_blank" href="https://www.rocketseat.com.br/ignite">Trilha React.js by Ignite</a> 📈 (em andamento)</li>
+    <li><a target="_blank" href="https://university.mongodb.com/certification/developer/about">MongoDB Certified Developer Associate</a> 📈 (em andamento)</li>
+    <li><a target="_blank" href="https://mylearn.oracle.com/learning-path/discover-and-train-in-cybersecurity/35644/100307">CyberSecurity and Oracle Cloud</a> 📈 (em andamento)</li>
   </ul>
 <br>
 
