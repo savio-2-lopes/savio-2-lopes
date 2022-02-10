@@ -6,8 +6,7 @@
 [![Whats Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512992279051)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/savioaugulopes)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savio.lopes@fatec.sp.gov.br)
-[![Me Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://next-dev-portfolio.netlify.app/)
-
+[![Netlify Badge](https://img.shields.io/badge/Website-25C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://next-dev-portfolio.netlify.app/)
 
 <br>
 
