@@ -8,6 +8,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savio.lopes@fatec.sp.gov.br)
 [![Netlify Badge](https://img.shields.io/badge/Website-25C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://next-dev-portfolio.netlify.app/)
 
+<br>
+
 #### Experiência
   <ul>
   <li>Estagiário na Mais Top Estética em Inovação e Tecnologia :computer: (01/2021 - até o momento)</li>
