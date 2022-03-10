@@ -24,7 +24,6 @@
   <ul>
     <li><a target="_blank" href="https://www.rocketseat.com.br/ignite">Trilha React.js by Ignite</a> :heavy_check_mark: (concluído)</li>
     <li><a target="_blank" href="https://www.rocketseat.com.br/ignite">Trilha Node.js by Ignite</a> 📈 (em andamento)</li>
-    <li><a target="_blank" href="https://university.mongodb.com/certification/developer/about">MongoDB Certified Developer Associate</a> 📈 (em andamento)</li>
     <li><a target="_blank" href="https://www.coursera.org/professional-certificates/google-it-automation">Certified Google IT Automation with Python</a> 📈 (em andamento)</li>   </ul>
 <br>
 
