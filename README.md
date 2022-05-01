@@ -12,7 +12,7 @@
 
 #### Experiência
   <ul>
-  <li>Estagiário na Mais Top Estética em Inovação e Tecnologia :computer: (01/2021 - até o momento)</li>
+  <li>Estagiário na Mais Top Estética em Inovação e Tecnologia :computer: (01/2022 - 04/2022)</li>
   <li>Estagiário na Cazalab como Desenvolvedor Front-end :computer: (11/2020 - 11/2021) </li>
   </ul>
 
