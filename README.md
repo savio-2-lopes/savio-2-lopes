@@ -13,11 +13,11 @@
     <img src="https://img.shields.io/badge/-Github-6633cc?style=flat-square&logo=github&logoColor=3f72af&color=112d4e&link=https://www.github.com/savio-2-lopes/" alt="Savio's Github" />
   </a>
   
-  <a href="https://www.instagram.com/savioaugulopes">
+  <a target="_blank" href="https://www.instagram.com/savioaugulopes">
     <img src="https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=instagram&color=112d4e&logoColor=3f72af&link=https://www.instagram.com/savioaugulopes" alt="Savio's Instagram profile" />
   </a>
   
-  <a href="https://next-dev-portfolio.netlify.app/">
+  <a target="_blank" href="https://next-dev-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://next-dev-portfolio.netlify.app/" alt="Savio's Portfólio profile" />
   </a>
 </p>
