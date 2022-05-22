@@ -23,7 +23,7 @@
 
 ### I'm a Graduating in Systems Analysis and Development and Intern in Programming
 
-✅ I'm a Graduating in Systems Analysis and Development, Intern in Programming and book lover.
+✅ I'm a Graduating in Systems Analysis and Development, Intern in Programming at Slideworks and book lover.
 
 - 🔭 I’m currently working on: ReactJS
 - 🌱 I’m currently learning: Web Development (ReactJS/NextJS)
