@@ -1,12 +1,16 @@
 # Hi Folks! 🏳️‍🌈
 
 <p>
-  <a href="mailto:savio.dev.lopes@gmail.com">
+  <a target="_blank" href="mailto:savio.dev.lopes@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=3f72af&color=112d4e&link=savio.dev.lopes@gmail.com" alt="Savio's Gmail" />
   </a>
   
-  <a href="https://www.linkedin.com/in/savio-lopes">
+  <a target="_blank" href="https://www.linkedin.com/in/savio-lopes">
     <img src="https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=3f72af&color=112d4e&link=https://www.linkedin.com/in/savio-lopes/" alt="Savio's LinkedIn" />
+  </a>
+  
+  <a target="_blank" href="https://www.github/savio-2-lopes">
+    <img src="https://img.shields.io/badge/-Github-6633cc?style=flat-square&logo=github&logoColor=3f72af&color=112d4e&link=https://www.github.com/savio-2-lopes/" alt="Savio's Github" />
   </a>
   
   <a href="https://www.instagram.com/savioaugulopes">
