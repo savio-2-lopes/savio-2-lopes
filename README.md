@@ -10,7 +10,7 @@
   </a>
   
   <a target="_blank" href="https://www.twitch.tv/saviolopesdev/about">
-    <img src="https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&logo=twitch&logoColor=3f72af&color=112d4e&link=https://www.github.com/savio-2-lopes/" alt="Savio's twitch" />
+    <img src="https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&logo=twitch&logoColor=3f72af&color=112d4e&link=https://www.twitch.tv/saviolopesdev/about" alt="Savio's twitch" />
   </a>
   
   <a target="_blank" href="https://www.instagram.com/savioaugulopes">
@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://next-dev-portfolio.netlify.app/" alt="Savio's Portfólio profile" />
   </a>
   
-  <a target="_blank" href="mailto:savio.dev.lopes@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=3f72af&color=112d4e&link=savio.dev.lopes@gmail.com" alt="Savio's Gmail" />
+  <a target="_blank" href="savio-2-lopes.github.io/Linktree-App-Explorer-02">
+    <img src="https://img.shields.io/badge/-Links de Contato-6633cc?style=flat-square&logo=linktree&color=112d4e&logoColor=3f72af&link=https://savio-2-lopes.github.io/Linktree-App-Explorer-02" alt="Savio's Linktree" />
   </a>
 </p>
 
