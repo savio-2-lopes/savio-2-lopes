@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/-Github-6633cc?style=flat-square&logo=github&logoColor=3f72af&color=112d4e&link=https://www.github.com/savio-2-lopes/" alt="Savio's Github" />
   </a>
   
-  <a target="_blank" href="https://www.twitch.tv/saviolopesdev/about">
-    <img src="https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&logo=twitch&logoColor=3f72af&color=112d4e&link=https://www.twitch.tv/saviolopesdev/about" alt="Savio's twitch" />
+  <a target="_blank" href="https://www.twitch.tv/codingbysavio/about">
+    <img src="https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&logo=twitch&logoColor=3f72af&color=112d4e&link=https://www.twitch.tv/codingbysavio/about" alt="Savio's twitch" />
   </a>
   
   <a target="_blank" href="https://www.instagram.com/savioaugulopes">
