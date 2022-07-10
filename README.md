@@ -1,10 +1,6 @@
 # Hi Folks! 🏳️‍🌈
 
-<p>
-  <a target="_blank" href="mailto:savio.dev.lopes@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=3f72af&color=112d4e&link=savio.dev.lopes@gmail.com" alt="Savio's Gmail" />
-  </a>
-  
+<p>  
   <a target="_blank" href="https://www.linkedin.com/in/savio-lopes">
     <img src="https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=3f72af&color=112d4e&link=https://www.linkedin.com/in/savio-lopes/" alt="Savio's LinkedIn" />
   </a>
@@ -13,12 +9,20 @@
     <img src="https://img.shields.io/badge/-Github-6633cc?style=flat-square&logo=github&logoColor=3f72af&color=112d4e&link=https://www.github.com/savio-2-lopes/" alt="Savio's Github" />
   </a>
   
+  <a target="_blank" href="https://www.twitch.tv/saviolopesdev/about">
+    <img src="https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&logo=twitch&logoColor=3f72af&color=112d4e&link=https://www.github.com/savio-2-lopes/" alt="Savio's twitch" />
+  </a>
+  
   <a target="_blank" href="https://www.instagram.com/savioaugulopes">
     <img src="https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=instagram&color=112d4e&logoColor=3f72af&link=https://www.instagram.com/savioaugulopes" alt="Savio's Instagram profile" />
   </a>
   
   <a target="_blank" href="https://next-dev-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://next-dev-portfolio.netlify.app/" alt="Savio's Portfólio profile" />
+  </a>
+  
+  <a target="_blank" href="mailto:savio.dev.lopes@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=3f72af&color=112d4e&link=savio.dev.lopes@gmail.com" alt="Savio's Gmail" />
   </a>
 </p>
 
