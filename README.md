@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://next-dev-portfolio.netlify.app/" alt="Savio's Portfólio profile" />
   </a>
   
-  <a target="_blank" href="savio-2-lopes.github.io/Linktree-App-Explorer-02">
+  <a target="_blank" href="https://savio-2-lopes.github.io/Linktree-App-Explorer-02">
     <img src="https://img.shields.io/badge/-Links de Contato-6633cc?style=flat-square&logo=linktree&color=112d4e&logoColor=3f72af&link=https://savio-2-lopes.github.io/Linktree-App-Explorer-02" alt="Savio's Linktree" />
   </a>
 </p>
@@ -74,9 +74,9 @@
 
  <div style="margin-left:auto; margin-right:auto">
   <a href="https://github.com/savio-2-lopes">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&theme=tokyonight" height="180em" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&theme=tokyonight" />
 </div>
 
 <br>
