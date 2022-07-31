@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=instagram&color=112d4e&logoColor=3f72af&link=https://www.instagram.com/savioaugulopes" alt="Savio's Instagram profile" />
   </a>
   
-  <a target="_blank" href="https://next-dev-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://next-dev-portfolio.netlify.app/" alt="Savio's Portfólio profile" />
+  <a target="_blank" href="https://savioaugustolopes.netlify.app/">
+    <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://savioaugustolopes.netlify.app/" alt="Savio's Portfólio profile" />
   </a>
   
   <a target="_blank" href="https://savio-2-lopes.github.io/Linktree-App-Explorer-02">
