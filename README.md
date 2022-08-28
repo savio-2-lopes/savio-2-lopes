@@ -1,4 +1,4 @@
-# Hi Folks! 🏳️‍🌈
+# Hi Folks!
 
 <p>  
   <a target="_blank" href="https://www.linkedin.com/in/savio-lopes">
