@@ -1,6 +1,10 @@
-# Hi Folks!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f72af&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<p>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f72af&size=35&center=true&vCenter=true&width=1000&lines=Hi+Folks!;My+name+is+Savio;I'm+Intern+in+Web+Developer;I+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br>
+
+<p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/savio-lopes">
     <img src="https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=3f72af&color=112d4e&link=https://www.linkedin.com/in/savio-lopes/" alt="Savio's LinkedIn" />
   </a>
@@ -22,8 +26,6 @@
   </a>
 </p>
 
-
-### My name is Savio Lopes
 
 ### I'm a Graduating in Systems Analysis and Development and Intern in Programming
 
@@ -49,6 +51,7 @@
   - 🎯 Instagram: https://www.instagram.com/savioaugulopes/
 - ⚡ Fun fact: I'm addicted to musicals such as: broadway musicals and off-broadway musicals.
 
+<br>
 
 ### Languages & Tools 🛠  
 
@@ -66,16 +69,32 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Azure Devops](https://img.shields.io/badge/-AzureDevops-05122A?style=for-the-badge&logo=azuredevops&logoColor=blue)&nbsp;
 
-### Analytics ⚙️
+<br>
 
- <div style="margin-left:auto; margin-right:auto">
-  <a href="https://github.com/savio-2-lopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&theme=tokyonight" />
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/wakatime?username=savio2lopes" />
-</div>
+### 📊 Contribution Graph 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=savio-2-lopes&area_color=f61e4e&bg_color=0d1117&line=f61e4e&point=e4e87b&theme=github&hide_border=true&area=true" />
 
 <br>
-  
-![Snake animation](https://github.com/savio-2-lopes/savio-2-lopes/blob/output/github-user-contribution.svg)
+
+<p align="center">
+  <a href="https://github.com/savio-2-lopes">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=savio-2-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-2-lopes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=savio2lopes" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=savio-2-lopes&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/savio-2-lopes/savio-2-lopes/blob/output/github-user-contribution.svg" />
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f72af&height=120&section=footer"/>
