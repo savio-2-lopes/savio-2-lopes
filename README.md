@@ -27,7 +27,7 @@
 
 ### I'm a Graduating in Systems Analysis and Development and Intern in Programming
 
-✅ I'm a Graduating in Systems Analysis and Development, Intern in Programming in Web Developer and book lover.
+✅ I am not throwin' away my shot
 
 - 🔭 I’m currently working on: ReactJS
 - 🌱 I’m currently learning: Web Development (ReactJS/NextJS)
