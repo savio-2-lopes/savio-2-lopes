@@ -45,13 +45,14 @@
   - 🎯 Data fetching and cache local (React Query and MirageJS).
 
 - 👨‍💻 Experience in the field of Information Technology
-  - 🎯 Intern at Slideworks :computer: (05/2022 - the moment)
+  - 🎯 Intern at Slideworks :computer: (05/2022 - 09/2022)
   - 🎯 Intern at Mais Top Estética in Innovation and Technology :computer: (01/2022 - 04/2022)
   - 🎯 Intern at Cazalab as Front End Developer :computer: (11/2020 - 11/2021)
 
 - 📫 How to reach me: 
   - 🎯 Linkedin: www.linkedin.com/in/savio-lopes/
-  - 🎯 Portfolio: https://next-dev-portfolio.netlify.app/
+  - 🎯 Portfolio: https://savioaugustolopes.netlify.app/
+  - 🎯 Stack Overflow: https://pt.stackoverflow.com/users/304161/savio-lopes/
   - 🎯 Instagram: https://www.instagram.com/savioaugulopes/
 - ⚡ Fun fact: I'm addicted to musicals such as: broadway musicals and off-broadway musicals.
 
