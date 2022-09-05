@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://savioaugustolopes.netlify.app/" alt="Savio's Portfólio profile" />
   </a>
   
-  <a target="_blank" href="https://savio-2-lopes.github.io/Linktree-App-Explorer-02">
+  <a target="_blank" href="https://savio-2-lopes.github.io/Linktree">
     <img src="https://img.shields.io/badge/-Links de Contato-6633cc?style=flat-square&logo=linktree&color=112d4e&logoColor=3f72af&link=https://savio-2-lopes.github.io/Linktree-App-Explorer-02" alt="Savio's Linktree" />
   </a>
 </p>
