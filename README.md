@@ -1,4 +1,4 @@
-<img src="https://github.com/savio-2-lopes/savio-2-lopes/blob/main/.github/workflows/header.png?raw=true" alt="savio-2-lopes" />
+<img src="https://github.com/savio-2-lopes/savio-2-lopes/blob/main/.github/workflows/banner.png?raw=true" alt="savio-2-lopes" />
 
 <br>
 
