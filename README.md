@@ -13,7 +13,7 @@
 <br>
 
 <h1 align="center">Hi 👏🏽 I'm Savio Lopes</h1>
-<h3 align="center">A passionate Web Developer Jr</h3>
+<h3 align="center">Junior Developer | CCNA 1x Certified | Network Security Certified</h3>
 
 <br>
 
@@ -33,8 +33,8 @@
   <a target="_blank" href="https://pt.stackoverflow.com/users/304161/savio-lopes/">
     <img src="https://img.shields.io/badge/-Stack Overflow-6633cc?style=flat-square&logo=stackoverflow&logoColor=3f72af&color=112d4e&link=https://pt.stackoverflow.com/users/304161/savio-lopes" alt="Savio's Stack Overflow profile" />
   </a>
-  <a target="_blank" href="https://savio-2-lopes.github.io/Linktree">
-    <img src="https://img.shields.io/badge/-Links de Contato-6633cc?style=flat-square&logo=linktree&color=112d4e&logoColor=3f72af&link=https://savio-2-lopes.github.io/Linktree-App-Explorer-02" alt="Savio's Linktree" />
+  <a target="_blank" href="https://beacons.ai/saviodevlopes">
+    <img src="https://img.shields.io/badge/-Links de Contato-6633cc?style=flat-square&logo=linktree&color=112d4e&logoColor=3f72af&link=https://beacons.ai/saviodevlopes" alt="Savio's Beacons" />
   </a>
 </p>
 
@@ -56,21 +56,21 @@
   - 🎯 Authentication (JWT, Client-side, Server-side).
   - 🎯 Data fetching and cache local (React Query and MirageJS).
 
-<br>
 
 - 👨‍💻 Experience in the field of Information Technology
 
+  - 🎯 Junior Developer at Private Code Soluções Digitais :computer: (10/2022 - 12/2022)
   - 🎯 Intern at Slideworks :computer: (05/2022 - 09/2022)
   - 🎯 Intern at Mais Top Estética in Innovation and Technology :computer: (01/2022 - 04/2022)
   - 🎯 Intern at Cazalab as Front End Developer :computer: (11/2020 - 11/2021)
 
-<br>
 
 - 📫 How to reach me:
   - 🎯 Linkedin: www.linkedin.com/in/savio-lopes/
   - 🎯 Portfolio: https://savioaugustolopes.netlify.app/
   - 🎯 Stack Overflow: https://pt.stackoverflow.com/users/304161/savio-lopes/
   - 🎯 Instagram: https://www.instagram.com/savioaugulopes/
+  - 🎯 Twitter: https://twitter.com/savio_dev_lopes/
 
 <br>
 
