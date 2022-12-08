@@ -90,7 +90,7 @@
 
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=savio-2-lopes&area_color=f61e4e&bg_color=0d1117&line=f61e4e&point=e4e87b&theme=tokyonight&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=savio-2-lopes&theme=tokyo-night&hide_border=true&area=true" />
   
 <br>
 
