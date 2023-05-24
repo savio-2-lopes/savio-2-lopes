@@ -68,6 +68,7 @@
 
 - 🎯 Experience in the field of Information Technology
 
+  - Intern at Object1ve :computer: (04/2023 - the moment)
   - Junior Developer at Private Code Soluções Digitais :computer: (10/2022 - 04/2023)
   - Intern at Slideworks :computer: (05/2022 - 08/2022)
   - Intern at Mais Top Estética in Innovation and Technology :computer: (01/2022 - 04/2022)
