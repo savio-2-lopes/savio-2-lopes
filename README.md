@@ -13,7 +13,8 @@
 <br>
 
 <h1 align="center">Hi 👏🏽, I'm Savio Lopes</h1>
-<h3 align="center">Junior Front-End Developer | Software Developer | C# | .NET | Node.js | <br>React.js | TypeScript | Mobile & Web</h3>
+<h3 align="center">Software Engineering Intern | Mobile & Web Developer | React.js | Node.js | TypeScript
+</h3>
 
 <br>
 
@@ -103,7 +104,8 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=savio-2-lopes&theme=tokyo-night&hide_border=true&area=true" />
+https://
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=savio-2-lopes&theme=tokyo-night&hide_border=true&area=true" />
   
 <br>
 
@@ -121,11 +123,6 @@
         <a href="https://github.com/savio-2-lopes">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=savio-2-lopes&theme=tokyonight" />
         </a>
-        </td>
-    </tr>
-    <tr align="center">
-        <td colspan="3">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=savio2lopes&theme=tokyonight&layout=compact" />
         </td>
     </tr>
 </table>
