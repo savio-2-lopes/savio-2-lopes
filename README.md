@@ -28,8 +28,8 @@
   <a target="_blank" href="https://www.instagram.com/savioaugulopes">
     <img src="https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=instagram&color=112d4e&logoColor=3f72af&link=https://www.instagram.com/savioaugulopes" alt="Savio's Instagram profile" />
   </a> &nbsp;&nbsp;
-  <a target="_blank" href="https://savioaugustolopes.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://savioaugustolopes.netlify.app/" alt="Savio's Portfólio profile" />
+  <a target="_blank" href="https://savioaugulopes.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://savioaugulopes.vercel.app" alt="Savio's Portfólio profile" />
   </a> &nbsp;&nbsp;
   <a target="_blank" href="https://pt.stackoverflow.com/users/304161/savio-lopes/">
     <img src="https://img.shields.io/badge/-Stack Overflow-6633cc?style=flat-square&logo=stackoverflow&logoColor=3f72af&color=112d4e&link=https://pt.stackoverflow.com/users/304161/savio-lopes" alt="Savio's Stack Overflow profile" />
@@ -62,7 +62,7 @@
 - 📫 How to reach me:
 
   - Linkedin: www.linkedin.com/in/savio-lopes/
-  - Portfolio: https://savioaugustolopes.netlify.app/
+  - Portfolio: https://savioaugulopes.vercel.app/
   - Stack Overflow: https://pt.stackoverflow.com/users/304161/savio-lopes/
   - Instagram: https://www.instagram.com/savioaugulopes/
   - Twitter: https://twitter.com/savio_dev_lopes/
