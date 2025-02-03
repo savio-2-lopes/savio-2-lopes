@@ -13,7 +13,7 @@
 <br>
 
 <h1 align="center">Hi 👏🏽, I'm Savio Lopes</h1>
-<h3 align="center">Software Engineering Intern | Mobile & Web Developer | React.js | Node.js | TypeScript
+<h3 align="center">Software Developer | Full-Stack Web Engineer | Expert in PHP, JavaScript, React.js & Node.js
 </h3>
 
 <br>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=instagram&color=112d4e&logoColor=3f72af&link=https://www.instagram.com/savioaugulopes" alt="Savio's Instagram profile" />
   </a> &nbsp;&nbsp;
   <a target="_blank" href="https://savioaugulopes.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://savioaugulopes.vercel.app" alt="Savio's Portfólio profile" />
+    <img src="https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=netlify&logoColor=3f72af&color=112d4e&link=https://saviolopes.com.br" alt="Savio's Portfólio profile" />
   </a> &nbsp;&nbsp;
   <a target="_blank" href="https://pt.stackoverflow.com/users/304161/savio-lopes/">
     <img src="https://img.shields.io/badge/-Stack Overflow-6633cc?style=flat-square&logo=stackoverflow&logoColor=3f72af&color=112d4e&link=https://pt.stackoverflow.com/users/304161/savio-lopes" alt="Savio's Stack Overflow profile" />
@@ -53,24 +53,23 @@
 
 - 🤝 I’m looking for help with [Open-Source E-Learning Management](https://github.com/savio-2-lopes/Laravel-E-Learning-Management)
 
-- 👨‍💻 All of my projects are available at [https://savioaugustolopes.netlify.app](https://savioaugustolopes.netlify.app)
+- 👨‍💻 All of my projects are available at [https://savioaugustolopes.netlify.app](https://saviolopes.com.br)
 
-- 📝 I regularly write articles on [https://savioaugustolopes.netlify.app](https://savioaugustolopes.netlify.app)
+- 📝 I regularly write articles on [https://savioaugustolopes.netlify.app](https://saviolopes.com.br)
 
 - 💬 Ask me about **Javascript (React.js, Node.js and TypeScript)**
 
 - 📫 How to reach me:
 
   - Linkedin: www.linkedin.com/in/savio-lopes/
-  - Portfolio: https://savioaugulopes.vercel.app/
+  - Portfolio: https://saviolopes.com.br/
   - Stack Overflow: https://pt.stackoverflow.com/users/304161/savio-lopes/
-  - Instagram: https://www.instagram.com/savioaugulopes/
-  - Twitter: https://twitter.com/savio_dev_lopes/
 
 - 🎯 Experience in the field of Information Technology
 
-  - Intern at Object1ve :computer: (04/2023 - 07/2023)
-  - Junior Developer at Private Code Soluções Digitais :computer: (10/2022 - 04/2023)
+  - Fullstack Developer at 4.events :computer: (07/2023 - 02/2025)
+  - AdTech Analyst at Object1ve :computer: (05/2023 - 07/2023)
+  - Junior Fullstack Developer at Private Code Soluções Digitais :computer: (10/2022 - 04/2023)
   - Intern at Slideworks :computer: (05/2022 - 08/2022)
   - Intern at Mais Top Estética in Innovation and Technology :computer: (01/2022 - 04/2022)
   - Intern at Cazalab as Front End Developer :computer: (11/2020 - 11/2021)
@@ -84,7 +83,6 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/savio_dev_lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="savio_dev_lopes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/savio-lopes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savio-lopes/" height="30" width="40" /></a>
 <a href="https://instagram.com/savioaugulopes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="savioaugulopes/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@codingbysavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codingbysavio" height="30" width="40" /></a>
