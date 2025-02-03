@@ -53,7 +53,7 @@
 
 - 🤝 I’m looking for help with [Open-Source E-Learning Management](https://github.com/savio-2-lopes/Laravel-E-Learning-Management)
 
-- 👨‍💻 All of my projects are available at [https://savioaugustolopes.netlify.app](https://saviolopes.com.br)
+- 👨‍💻 All of my projects are available at [https://saviolopes.com.br](https://saviolopes.com.br)
 
 - 📝 I regularly write articles on [https://savioaugustolopes.netlify.app](https://saviolopes.com.br)
 
