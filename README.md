@@ -1,7 +1,3 @@
-<img src="https://github.com/savio-2-lopes/savio-2-lopes/blob/main/.github/workflows/banner.png?raw=true" alt="savio-2-lopes" />
-
-<br>
-
 <p align="center">
     <a href="https://github.com/savio-2-lopes/savio-2-lopes"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/savio-2-lopes/savio-2-lopes/graphs/contributors"><img src="https://img.shields.io/github/contributors/savio-2-lopes/savio-2-lopes?color=blue"></a>
@@ -41,17 +37,7 @@
 
 <br>
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=savio-2-lopes&theme=tokyonight" alt="savio-2-lopes" />
-</p>
-
-<br>
-
-- 🔭 I’m currently working on [Open-Source E-Learning Management](https://github.com/savio-2-lopes/Laravel-E-Learning-Management)
-
 - 🌱 I’m currently learning **React.js, .NET, Node.js, PHP, Go, Python**
-
-- 🤝 I’m looking for help with [Open-Source E-Learning Management](https://github.com/savio-2-lopes/Laravel-E-Learning-Management)
 
 - 👨‍💻 All of my projects are available at [https://saviolopes.com.br](https://saviolopes.com.br)
 
